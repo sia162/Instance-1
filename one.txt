@@ -3,7 +3,6 @@ hello sketch glitch
 
 
 
-
 mahima is tatti
 // WAP to check MSB of a number is set or not.
 
@@ -36,3 +35,4 @@ mahima is tatti
    else
    { printf("LSB is not a set");  }
    
+SWYCOS KA BIRTHDAY ON 4TH OCTOBER. HIAHAIHAIAHA
